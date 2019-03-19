@@ -1,4 +1,4 @@
-module.exports = function main() {
-    console.log("Debug Info");
-    return 'Hello World!';
+module.exports = function main(inputs) {
+    // write your code here...
+    return "price";
 };
