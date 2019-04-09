@@ -18,6 +18,6 @@
   },
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
-    "jasmine": "^2.6.0"
+    "jasmine": "^3.4.0"
   }
 }
